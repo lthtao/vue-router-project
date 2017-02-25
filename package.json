@@ -1,0 +1,26 @@
+{
+  "name": "vue-routerproject",
+  "version": "1.0.0",
+  "description": "vue-webpack",
+  "author": "Encorehwang",
+  "dependencies": {
+    "vue": "*",
+    "vue-router": "^2.2.1",
+    "webpack": "*"
+  },
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-plugin-transform-runtime": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-stage-0": "*",
+    "babel-runtime": "*",
+    "css-loader": "*",
+    "style-loader": "*",
+    "vue-html-loader": "*",
+    "vue-loader": "*",
+    "vue-template-compiler": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*"
+  }
+}
